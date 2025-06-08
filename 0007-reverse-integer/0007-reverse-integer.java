@@ -7,8 +7,7 @@ class Solution {
             x /= 10;
 
             // Check for overflow/underflow before multiplying
-            if (reversed > Integer.MAX_VALUE / 10 || 
-                (reversed == Integer.MAX_VALUE / 10 && digit > 7)) {
+            if (reversed > Integer.MAX_VALUE / 10 ) {
                 return 0;
             }
 
