@@ -11,8 +11,7 @@ class Solution {
                 return 0;
             }
 
-            if (reversed < Integer.MIN_VALUE / 10 || 
-                (reversed == Integer.MIN_VALUE / 10 && digit < -8)) {
+            if (reversed < Integer.MIN_VALUE / 10) {
                 return 0;
             }
 
