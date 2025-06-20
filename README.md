@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dpreethi12/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dpreethi12/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/dpreethi12/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Depth-First Search
 |  |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/dpreethi12/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
