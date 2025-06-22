@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dpreethi12/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dpreethi12/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/dpreethi12/leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dpreethi12/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/dpreethi12/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dpreethi12/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/dpreethi12/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
