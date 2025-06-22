@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/dpreethi12/leetcode/tree/master/0322-coin-change) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dpreethi12/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dpreethi12/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/dpreethi12/leetcode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dpreethi12/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpreethi12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/dpreethi12/leetcode/tree/master/0322-coin-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
