@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dpreethi12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dpreethi12/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dpreethi12/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/dpreethi12/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/dpreethi12/leetcode/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpreethi12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/dpreethi12/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/dpreethi12/leetcode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
