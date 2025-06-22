@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpreethi12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/dpreethi12/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/dpreethi12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dpreethi12/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dpreethi12/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -93,15 +94,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dpreethi12/leetcode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpreethi12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dpreethi12/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpreethi12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -119,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpreethi12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
