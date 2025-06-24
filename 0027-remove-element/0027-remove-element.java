@@ -6,12 +6,9 @@ class Solution {
         int k = 0;
         for(int i = 0; i < n; i++){
             if(nums[i] != val){
-                a[k] = nums[i];
+                nums[k] = nums[i];
                 k++;
             }
-        }
-        for(int i = 0; i < n; i++){
-            nums[i] = a[i];
         }
         return k;
     }
