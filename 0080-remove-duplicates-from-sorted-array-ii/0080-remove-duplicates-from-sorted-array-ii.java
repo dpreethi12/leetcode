@@ -1,19 +1,11 @@
 class Solution {
-    public int removeDuplicates(int[] a) {
-        int k = 1;
-        int v = a[0];
-        boolean f = true;
-        for(int i = 1; i < a.length; i++){
-            if(f && a[i] == a[i-1]){
-                a[k] = a[i];
+    public int removeDuplicates(int[] nums) {
+        if(nums.length <= 2) return nums.length;
+        int k = 2;
+        for(int i = 2; i < nums.length; i++){
+            if(nums[i] != nums[k-2]){
+                nums[k] = nums[i];
                 k++;
-                f = false;
-            }
-            else if(a[i] != v){
-                a[k] = a[i];
-                k++;
-                v = a[i];
-                f = true;
             }
         }
         return k;
