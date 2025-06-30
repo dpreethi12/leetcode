@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dpreethi12/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/dpreethi12/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dpreethi12/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/dpreethi12/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dpreethi12/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dpreethi12/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dpreethi12/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/dpreethi12/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/dpreethi12/leetcode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/dpreethi12/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Depth-First Search
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dpreethi12/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dpreethi12/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dpreethi12/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dpreethi12/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpreethi12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/dpreethi12/leetcode/tree/master/0300-longest-increasing-subsequence) |
