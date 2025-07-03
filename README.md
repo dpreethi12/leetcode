@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dpreethi12/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dpreethi12/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/dpreethi12/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/dpreethi12/leetcode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/dpreethi12/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/dpreethi12/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dpreethi12/leetcode/tree/master/0242-valid-anagram) |
