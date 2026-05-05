@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dpreethi12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/dpreethi12/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dpreethi12/leetcode/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/dpreethi12/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/dpreethi12/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/dpreethi12/leetcode/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
