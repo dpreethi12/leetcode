@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dpreethi12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/dpreethi12/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dpreethi12/leetcode/tree/master/0322-coin-change) |
+| [1929-concatenation-of-array](https://github.com/dpreethi12/leetcode/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/dpreethi12/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dpreethi12/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/dpreethi12/leetcode/tree/master/0077-combinations) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/dpreethi12/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
