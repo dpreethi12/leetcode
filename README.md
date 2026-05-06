@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dpreethi12/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dpreethi12/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dpreethi12/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/dpreethi12/leetcode/tree/master/1861-rotating-the-box) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dpreethi12/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/dpreethi12/leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/dpreethi12/leetcode/tree/master/1470-shuffle-the-array) |
+| [1861-rotating-the-box](https://github.com/dpreethi12/leetcode/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/dpreethi12/leetcode/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/dpreethi12/leetcode/tree/master/0645-set-mismatch) |
+## Matrix
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/dpreethi12/leetcode/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
