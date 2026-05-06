@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dpreethi12/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/dpreethi12/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dpreethi12/leetcode/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/dpreethi12/leetcode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dpreethi12/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpreethi12/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/dpreethi12/leetcode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/dpreethi12/leetcode/tree/master/0645-set-mismatch) |
 ## Merge Sort
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/dpreethi12/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dpreethi12/leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/dpreethi12/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/dpreethi12/leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/dpreethi12/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/dpreethi12/leetcode/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/dpreethi12/leetcode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/dpreethi12/leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
