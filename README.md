@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dpreethi12/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/dpreethi12/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dpreethi12/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dpreethi12/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dpreethi12/leetcode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/dpreethi12/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dpreethi12/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/dpreethi12/leetcode/tree/master/0322-coin-change) |
 | [2121-find-if-path-exists-in-graph](https://github.com/dpreethi12/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dpreethi12/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/dpreethi12/leetcode/tree/master/1470-shuffle-the-array) |
 | [1861-rotating-the-box](https://github.com/dpreethi12/leetcode/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/dpreethi12/leetcode/tree/master/1929-concatenation-of-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dpreethi12/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/dpreethi12/leetcode/tree/master/3660-jump-game-ix) |
 ## Heap (Priority Queue)
 |  |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dpreethi12/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dpreethi12/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
