@@ -32,7 +32,7 @@ class Solution {
 
         while(!q.isEmpty()) {
             int curr = q.remove();
-            vis.add(curr);
+            //vis.add(curr);
 
             List<Integer> nextJumps = new ArrayList<>();
             int k = nums[curr];
@@ -56,7 +56,7 @@ class Solution {
                     dist[next] = dist[curr] + 1;
                     if(next == n -1)
                         return dist[next];
-                    if(!vis.contains(next))
+                    //if(!vis.contains(next))
                         q.add(next);
                 }
             }
