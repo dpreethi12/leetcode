@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dpreethi12/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dpreethi12/leetcode/tree/master/1470-shuffle-the-array) |
 | [1861-rotating-the-box](https://github.com/dpreethi12/leetcode/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/dpreethi12/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/dpreethi12/leetcode/tree/master/1929-concatenation-of-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dpreethi12/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/dpreethi12/leetcode/tree/master/3660-jump-game-ix) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/dpreethi12/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/dpreethi12/leetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/dpreethi12/leetcode/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/dpreethi12/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
