@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dpreethi12/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dpreethi12/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/dpreethi12/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/dpreethi12/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dpreethi12/leetcode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/dpreethi12/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dpreethi12/leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/dpreethi12/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dpreethi12/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/dpreethi12/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dpreethi12/leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dpreethi12/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dpreethi12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dpreethi12/leetcode/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/dpreethi12/leetcode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/dpreethi12/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Counting Sort
