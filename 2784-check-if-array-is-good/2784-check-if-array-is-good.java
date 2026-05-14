@@ -10,8 +10,8 @@ class Solution {
         for(int i = 1; i < n - 1; i++){
             if(count[i] != 1) return false;
         }
-        if(count[n-1] != 2) return false;
-        return true;
+        
+        return count[n - 1] == 2;
     }
 
 }
