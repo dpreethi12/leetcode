@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/dpreethi12/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dpreethi12/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/dpreethi12/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dpreethi12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dpreethi12/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dpreethi12/leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/dpreethi12/leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/dpreethi12/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/dpreethi12/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dpreethi12/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dpreethi12/leetcode/tree/master/0049-group-anagrams) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/dpreethi12/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dpreethi12/leetcode/tree/master/0055-jump-game) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dpreethi12/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Prefix Sum
