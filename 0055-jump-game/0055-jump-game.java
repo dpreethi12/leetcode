@@ -1,12 +1,29 @@
 class Solution {
-    public boolean canJump(int[] nums) {
-        int max = 0;
-        int n = nums.length;
-        for(int i = 0; i < n; i++) {
-            if(i > max) return false;
-            max = Math.max(max, i + nums[i]);
-            if(max >= n) return true;
+
+    int[] dp;
+
+    boolean dfs(int[] nums, int idx) {
+
+        if(idx >= nums.length - 1) return true;
+
+        if(dp[idx] != 0) {
+            return dp[idx] == 1;
         }
-        return true;
+
+        for(int j = 1; j <= nums[idx]; j++) {
+
+            if(dfs(nums, idx + j)) {
+                dp[idx] = 1;
+                return true;
+            }
+        }
+
+        dp[idx] = -1;
+        return false;
+    }
+
+    public boolean canJump(int[] nums) {
+        dp = new int[nums.length];
+        return dfs(nums, 0);
     }
 }
