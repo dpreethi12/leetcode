@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/dpreethi12/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/dpreethi12/leetcode/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/dpreethi12/leetcode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dpreethi12/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dpreethi12/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dpreethi12/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/dpreethi12/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dpreethi12/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/dpreethi12/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dpreethi12/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dpreethi12/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dpreethi12/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/dpreethi12/leetcode/tree/master/3660-jump-game-ix) |
 ## Heap (Priority Queue)
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dpreethi12/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/dpreethi12/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2540-minimum-common-value](https://github.com/dpreethi12/leetcode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dpreethi12/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dpreethi12/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dpreethi12/leetcode/tree/master/0055-jump-game) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dpreethi12/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dpreethi12/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
 | ------- |
