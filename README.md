@@ -118,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dpreethi12/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dpreethi12/leetcode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/dpreethi12/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dpreethi12/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/dpreethi12/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/dpreethi12/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dpreethi12/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dpreethi12/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/dpreethi12/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
